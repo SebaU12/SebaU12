@@ -4,4 +4,5 @@
 
 **a**
 
-:school_satchel: Me gusta mucho usar vscode <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60>  
+:school_satchel: Me gusta mucho usar vscode
+<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=80>  
