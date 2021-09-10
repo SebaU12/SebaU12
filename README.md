@@ -5,7 +5,7 @@
 
 ## Aprenizaje~
 **¿Qué cosas se por el momento (2021) + cosas que quiero aprender**
-1. Aprendí y seguire aprendiendo
+1. Aprendí y \*seguire aprendiendo\*
     - JavaScript 
     - TypeScript
     - C++
