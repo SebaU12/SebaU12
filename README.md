@@ -2,6 +2,7 @@
 ## Mi nombre es Sebastián Lizárraga y estudio para ser un cientifico de la computación :sunglasses:
 ##### aunque debo estudiar mucho si quiero ser bueno programando :weary:
 
+##Aprenizaje~
 **¿Qué cosas se por el momento (2021) + cosas que quiero aprender**
 1. Aprendí y seguire aprendiendo
     - JavaScript 
@@ -20,6 +21,8 @@
 
 ***Ley de Mosher de la Ingeniería del Software***
 >"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"
+
+##Equipo actual de trabajo OwO~
 
 ```
 git status
