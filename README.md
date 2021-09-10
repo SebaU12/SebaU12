@@ -18,8 +18,8 @@
 
 Una frasesita para mantenerse programando a pesar de que es muy común equivocarse, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
 
-*Ley de Mosher de la Ingeniería del Software*
->**"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"**
+**_Ley de Mosher de la Ingeniería del Software_**
+>"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"
 
 ```
 git status
