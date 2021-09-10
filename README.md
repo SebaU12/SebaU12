@@ -19,9 +19,12 @@
     - Docker
 3. Herramientas que uso
     - Visual Studio Code 
-    - Vim ![vim](https://user-images.githubusercontent.com/76079388/132922193-9ecf692d-2127-4a07-88ba-66f7f46c7c49.png)
-    - (Usando recientemente) Hyper ![hyper-logo](https://user-images.githubusercontent.com/76079388/132922191-7081a433-8e79-4b46-acba-059a5593dfb3.png)
+    - Vim ![vim]
+    - (Usando recientemente) 
     - Postman
+    
+<img src="https://user-images.githubusercontent.com/76079388/132922191-7081a433-8e79-4b46-acba-059a5593dfb3.png" alt="html5" width="40" height="40" />
+
 
 ### Mi forma de ver mi aprendizaje~
 
