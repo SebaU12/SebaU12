@@ -16,9 +16,9 @@
     - ReactNative
     - Docker
 
-Una frasesita para mantenerse programando a pesar de que es muy común equivocarse, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
+**Una frasesita para mantenerse programando a pesar de que _es muy común equivocarse_**, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
 
-**_Ley de Mosher de la Ingeniería del Software_**
+***Ley de Mosher de la Ingeniería del Software***
 >"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"
 
 ```
