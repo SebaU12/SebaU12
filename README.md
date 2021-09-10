@@ -36,6 +36,8 @@
 1. @AleChris1 [github](https://github.com/AleChris1)
 2. @IanCortez [github](https://github.com/IanCortez)
 3. @YagoSilvaA [github](https://github.com/YagoSilvaA)
+
+## Y eso es todo por el momento :smile:
 ```
 // C++
 #include <iostream>
