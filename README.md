@@ -26,7 +26,7 @@
     - Postman
 
 <p align='center'>
-	<img src="https://user-images.githubusercontent.com/76079388/132922212-6b943192-162b-4039-8a83-d1b5b951d543.png" alt="VS Code" width="80" height="80" />
+	<img src="https://user-images.githubusercontent.com/76079388/132923489-f8c4ce40-3404-4b82-b0f2-b6e25c12448c.png" alt="VS Code" width="80" height="80" />
 	<img src="https://user-images.githubusercontent.com/76079388/132922191-7081a433-8e79-4b46-acba-059a5593dfb3.png" alt="Hyper" width="80" height="80" />
 	<img src="https://user-images.githubusercontent.com/76079388/132922193-9ecf692d-2127-4a07-88ba-66f7f46c7c49.png" alt="Vim" width="80" height="80" />
 	<img src="https://user-images.githubusercontent.com/76079388/132922370-81b7ce7a-868f-4064-878c-d8f485a75a69.png" alt="Postman" width="80" height="80" />
