@@ -1,6 +1,6 @@
 # Buenos días, tardes, noches~
 ## Mi nombre es Sebastián Lizárraga y estudio para ser un cientifico de la computación :sunglasses:
-##### aunque necesito estudiar mucho más para ser bueno :weary:
+##### aunque debo estudiar mucho si quiero ser bueno programando :weary:
 
 **¿Qué cosas se por el momento (2021) + cosas que quiero aprender**
 1. Aprendí y seguire aprendiendo
@@ -16,10 +16,10 @@
     - ReactNative
     - Docker
 
-Una frasesita para mantenerse programando a pesar de que es muy común equivocarse OwO
+Una frasesita para mantenerse programando a pesar de que es muy común equivocarse, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
 
 *Ley de Mosher de la Ingeniería del Software*
->"No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo"
+>**"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"**
 
 ```
 git status
