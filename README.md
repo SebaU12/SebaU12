@@ -18,6 +18,13 @@
     - ReactNative
     - Docker
 
+- [x] Buscar un tema para estudiar
+- [x] Investigar y ver tutoriales
+- [x] Poner en practica lo aprendido 
+- [x] Fallar
+- [x] Seguir practicando y fallando 
+- [ ] Ser exitoso
+
 **Una frasesita para mantenerse programando a pesar de que _es muy común equivocarse_**, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
 
 ***Ley de Mosher de la Ingeniería del Software***
