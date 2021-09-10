@@ -37,8 +37,16 @@
 2. @IanCortez [github](https://github.com/IanCortez)
 3. @YagoSilvaA [github](https://github.com/YagoSilvaA)
 ```
-git status
-git add
-git commit
-console.log("Hola mundo)
+// C++
+#include <iostream>
+using namespace std;
+
+void mensaje(){
+	cout << "Gracias por leer~";
+}
+
+int main(){
+	mensaje(); 
+	return 0; 
+}
 ```
