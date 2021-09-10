@@ -12,6 +12,8 @@
     - Python
     - Usar React y Angular
     - MySQL
+    - HTML
+    - CSS
 2. No tengo idea pero quiero aprender
     - GraphQL
     - Usar Linux :cold_sweat:
@@ -22,11 +24,13 @@
     - Vim 
     - Hyper (Usando recientemente)
     - Postman
-    - 
-<img src="https://user-images.githubusercontent.com/76079388/132922212-6b943192-162b-4039-8a83-d1b5b951d543.png" alt="VS Code" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/76079388/132922191-7081a433-8e79-4b46-acba-059a5593dfb3.png" alt="Hyper" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/76079388/132922193-9ecf692d-2127-4a07-88ba-66f7f46c7c49.png" alt="Vim" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/76079388/132922370-81b7ce7a-868f-4064-878c-d8f485a75a69.png" alt="Postman" width="40" height="40" />
+
+<p align='center'>
+	<img src="https://user-images.githubusercontent.com/76079388/132922212-6b943192-162b-4039-8a83-d1b5b951d543.png" alt="VS Code" width="80" height="80" />
+	<img src="https://user-images.githubusercontent.com/76079388/132922191-7081a433-8e79-4b46-acba-059a5593dfb3.png" alt="Hyper" width="80" height="80" />
+	<img src="https://user-images.githubusercontent.com/76079388/132922193-9ecf692d-2127-4a07-88ba-66f7f46c7c49.png" alt="Vim" width="80" height="80" />
+	<img src="https://user-images.githubusercontent.com/76079388/132922370-81b7ce7a-868f-4064-878c-d8f485a75a69.png" alt="Postman" width="80" height="80" />
+</p>
 
 
 ### Mi forma de ver mi aprendizaje~
