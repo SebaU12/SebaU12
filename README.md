@@ -17,8 +17,13 @@
     - Usar Linux :cold_sweat:
     - ReactNative
     - Docker
+3. Herramientas que uso
+    - Visual Studio Code
+    - Vim
+    - (Usando recientemente) Hyper
+    - Postman
 
-### Mi forma de ver mi aprendizaje
+### Mi forma de ver mi aprendizaje~
 
 - [x] Buscar un tema para estudiar
 - [x] Investigar y ver tutoriales
