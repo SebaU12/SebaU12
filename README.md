@@ -16,3 +16,5 @@
     - ReactNative
     - Docker
 
+HOLA:
+>"No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo"
