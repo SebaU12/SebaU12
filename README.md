@@ -18,8 +18,8 @@
     - ReactNative
     - Docker
 3. Herramientas que uso
-    - Visual Studio Code
-    - Vim
+    - Visual Studio Code ![hyper-logo](https://user-images.githubusercontent.com/76079388/132922191-7081a433-8e79-4b46-acba-059a5593dfb3.png)
+    - Vim 
     - (Usando recientemente) Hyper
     - Postman
 
