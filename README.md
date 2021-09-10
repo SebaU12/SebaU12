@@ -11,3 +11,8 @@
     - Usar React y Angular
     - MySQL
 2. No tengo idea pero quiero aprender
+    - GraphQL
+    - Usar Linux :cold_sweat:
+    - ReactNative
+    - Docker
+
