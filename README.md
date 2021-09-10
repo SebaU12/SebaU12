@@ -18,6 +18,8 @@
     - ReactNative
     - Docker
 
+**Mi forma de ver mi aprendizaje
+
 - [x] Buscar un tema para estudiar
 - [x] Investigar y ver tutoriales
 - [x] Poner en practica lo aprendido 
