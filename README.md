@@ -1,6 +1,7 @@
 # Buenos días, tardes, noches~
 ## Mi nombre es Sebastián Lizárraga y estudio para ser un cientifico de la computación :sunglasses:
 ##### aunque debo estudiar mucho si quiero ser bueno programando :weary:
+![programacion_gamer_001](https://user-images.githubusercontent.com/76079388/132920075-93bbbb22-ac8e-491a-b33a-3f457b9933bf.gif)
 
 ## Aprenizaje~
 **¿Qué cosas se por el momento (2021) + cosas que quiero aprender**
