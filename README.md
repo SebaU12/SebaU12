@@ -20,3 +20,10 @@ Una frasesita para mantenerse programando a pesar de que es muy común equivocar
 
 *Ley de Mosher de la Ingeniería del Software*
 >"No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo"
+
+```
+git status
+git add
+git commit
+console.log("Hola mundo)
+```
