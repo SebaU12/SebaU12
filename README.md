@@ -16,5 +16,6 @@
     - ReactNative
     - Docker
 
-HOLA:
+Una frasesita para mantenerse programando a pesar de que es muy común equivocarse OwO: 
+*Ley de Mosher de la Ingeniería del Software*
 >"No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo"
