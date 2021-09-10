@@ -23,7 +23,9 @@
 >"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"
 
 ## Equipo actual de trabajo OwO~
-
+1. @AleChris1 github: [Contribution guidelines for this project](https://github.com/AleChris1)
+2. @IanCortez
+3. @YagoSilvaA
 ```
 git status
 git add
