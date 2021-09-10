@@ -40,7 +40,7 @@
 - [x] Poner en practica lo aprendido 
 - [x] Fallar
 - [x] Seguir practicando y fallando 
-- [ ] Ser exitoso
+- [ ] Ser exitoso 
 - [ ] \(Opcional) Buscar un trabajo OwO
 
 **Una frasesita para mantenerse programando a pesar de que _es muy común equivocarse_**, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
