@@ -50,9 +50,9 @@
 
 ## Equipo actual de trabajo OwO~
 ***TEAM TENEDOR***
-° @AleChris1 [github](https://github.com/AleChris1)
-° @IanCortez [github](https://github.com/IanCortez)
-° @YagoSilvaA [github](https://github.com/YagoSilvaA)
+* @AleChris1 [github](https://github.com/AleChris1)
+* @IanCortez [github](https://github.com/IanCortez)
+* @YagoSilvaA [github](https://github.com/YagoSilvaA)
 
 ## Y eso es todo por el momento :smile:
 ```
