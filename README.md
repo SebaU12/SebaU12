@@ -48,6 +48,7 @@
 >"No te preocupes si no funciona bien. _Si todo estuviera correcto_, serías despedido de tu trabajo"
 
 ## Equipo actual de trabajo OwO~
+***TEAM TENEDOR***
 1. @AleChris1 [github](https://github.com/AleChris1)
 2. @IanCortez [github](https://github.com/IanCortez)
 3. @YagoSilvaA [github](https://github.com/YagoSilvaA)
