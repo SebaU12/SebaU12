@@ -26,7 +26,6 @@
 1. @AleChris1 [github](https://github.com/AleChris1)
 2. @IanCortez [github](https://github.com/IanCortez)
 3. @YagoSilvaA [github](https://github.com/YagoSilvaA)
-4. @github/support ¿Qué piensas sobre estas actualizaciones?
 ```
 git status
 git add
