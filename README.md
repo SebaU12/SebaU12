@@ -41,7 +41,7 @@
 - [x] Fallar
 - [x] Seguir practicando y fallando 
 - [ ] Ser exitoso
-- [ ] \Buscar un trabajo OwO
+- [ ] \(A) Buscar un trabajo OwO
 - [ ] \(Optional) Abre una propuesta de seguimiento
 
 **Una frasesita para mantenerse programando a pesar de que _es muy común equivocarse_**, por lo que ~~RENDIRSE~~ no esta en el diccionario OwO.
